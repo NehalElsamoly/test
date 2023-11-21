@@ -1,0 +1,165 @@
+{
+   "checksum": "c207c1472cbfd7111361f05fa092635d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13297747097413727",
+            "date_last_used": "0",
+            "guid": "ceae38fd-4d2e-4e1b-8a49-c62a52ff7e4e",
+            "id": "14",
+            "name": "pitstone windmill buckinghamshire - Search",
+            "type": "url",
+            "url": "https://www.bing.com/search?q=pitstone+windmill+buckinghamshire&filters=IsConversation:%22True%22+BTWLKey:%22PitstoneWindmillEngland%22+BTWLType:%22Trivia%22&FORM=EMSDS0"
+         }, {
+            "date_added": "0",
+            "date_last_used": "0",
+            "guid": "99bb986c-2761-4aef-b5db-5c623c506a05",
+            "id": "15",
+            "name": "Quiz",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSdp1CmasblJSD7yTCyPE5IVc5U7DlVlKUGxj5T-btUvuSClQw/viewform?hr_submission=ChkIz76b_eoEEhAIwLG6wIYGEgcI57_Dn-4EEAE"
+         }, {
+            "children": [ {
+               "date_added": "13308174395026462",
+               "date_last_used": "0",
+               "guid": "a6d66630-fd7d-40fe-898d-d95e6d758128",
+               "id": "17",
+               "name": "Dell Auction",
+               "type": "url",
+               "url": "http://www.dellauction.com/"
+            }, {
+               "date_added": "13308174395026462",
+               "date_last_used": "0",
+               "guid": "3e93f34a-3d0b-49cc-b36f-230c91f99fb6",
+               "id": "18",
+               "name": "Dell",
+               "type": "url",
+               "url": "http://www1.euro.dell.com/content/default.aspx?c=ae&l=ar&s=gen"
+            }, {
+               "date_added": "13308174395026462",
+               "date_last_used": "0",
+               "guid": "ba579abc-f76f-406b-af59-046cea5841b3",
+               "id": "19",
+               "name": "Support.Dell.Com",
+               "type": "url",
+               "url": "http://www.dell.com/support/home"
+            } ],
+            "date_added": "13343487674874198",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "a26b72a7-b872-4108-83cf-ac9f29f8a921",
+            "id": "16",
+            "name": "Dell",
+            "type": "folder"
+         }, {
+            "date_added": "13343487671926610",
+            "date_last_used": "0",
+            "guid": "40005670-4b20-40df-9a4a-ed9a372658fb",
+            "id": "7",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         }, {
+            "date_added": "13344597627043817",
+            "date_last_used": "0",
+            "guid": "7575246a-42b0-4bf6-a9c1-f828ec52ec1e",
+            "id": "35",
+            "name": "McAfee Security",
+            "type": "url",
+            "url": "https://www.mcafee.com/consumer/v/browserfav/dell.html"
+         } ],
+         "date_added": "13343487671764445",
+         "date_last_used": "0",
+         "date_modified": "13344597632708370",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13308174610923568",
+            "date_last_used": "0",
+            "date_modified": "13308174610923568",
+            "guid": "c5e96545-1660-48fa-827c-b5c73ad4a28d",
+            "id": "20",
+            "name": "Other Bookmarks",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13316965073356171",
+               "date_last_used": "0",
+               "guid": "84da1e8e-f486-4ff4-a7bb-c16b60015c1f",
+               "id": "22",
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13317580184247820",
+               "date_last_used": "0",
+               "guid": "d10c727f-2e36-4944-8e0d-7f04d373c9ff",
+               "id": "23",
+               "name": "",
+               "type": "url",
+               "url": "https://www.bing.com/search?q=%D8%AA%D8%B1%D8%AC%D9%85%D8%A9&form=ANNTH1&refig=a9f8ec5991a9406189126da0c7471ce6"
+            }, {
+               "date_added": "13331072249462008",
+               "date_last_used": "0",
+               "guid": "60efc8aa-3a5c-46cf-b70c-e0ec77eb6cd1",
+               "id": "24",
+               "name": "‎محمود ونهاد‎ videos on Facebook Watch | Facebook",
+               "type": "url",
+               "url": "https://web.facebook.com/watch/search/?q=%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D9%88%D9%86%D9%87%D8%A7%D8%AF"
+            }, {
+               "date_added": "13339963169730463",
+               "date_last_used": "0",
+               "guid": "54b14bc2-44cc-4da9-b099-79fab4161ee5",
+               "id": "25",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Video | Facebook",
+               "type": "url",
+               "url": "https://www.facebook.com/watch"
+            }, {
+               "date_added": "13340672394044830",
+               "date_last_used": "0",
+               "guid": "5327df68-5ac2-47e2-8f52-28c8279fe8d6",
+               "id": "26",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Meet - ‪qxz-tocc-hpw‬‏",
+               "type": "url",
+               "url": "https://meet.google.com/qxz-tocc-hpw?fbclid=IwAR2dG36V9tr5l8RxUEWtGgkQKPWoDlJ4gL8yzsAK10m_NjpWC4O3CuNuYIk&pli=1"
+            } ],
+            "date_added": "13308174610923848",
+            "date_last_used": "0",
+            "date_modified": "13340672394044830",
+            "guid": "9e41996d-a7c0-4239-a42e-2e8db1ac9115",
+            "id": "21",
+            "name": "Synced Bookmarks",
+            "type": "folder"
+         } ],
+         "date_added": "13343487671764446",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13343487671764447",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
